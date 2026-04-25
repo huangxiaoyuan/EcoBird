@@ -20,11 +20,8 @@ os.environ[
 
 # ================= 配置 =================
 #siliconflow
-API_KEY = "sk-nzxutftishvwoayxihtceizdtdbwmomewcoofwhyritpcjaz"
+API_KEY = "sk-xxxxxxxxxx"
 BASE_URL = "https://api.siliconflow.cn/v1"
-#modelscope,使用
-#BASE_URL = 'https://api-inference.modelscope.cn/v1'
-#API_KEY = 'ms-d398e76f-e74d-454c-9383-dfb9935af8e0' # ModelScope Token
 DB_PATH = "./chroma_db"  # 向量数据库持久化路径，/chroma_db使用Embedding模型不一样，需要对数据库进行重建chrome
 
 
