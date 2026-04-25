@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Macau Eco AI
+Comment=Description of the application
+Exec=bash /home/langchain_kb/Macau_Eco_AI.sh
+Icon=/home/langchain_kb/icon.jpg
+Terminal=true
+Type=Application
+Categories=Utility;

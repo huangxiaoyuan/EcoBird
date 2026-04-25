@@ -1,0 +1,1 @@
+python /home/langchain_kb/client_k1_cam_GUI_V1.1.py

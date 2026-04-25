@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=AI学习助手
+Comment=一个用于学习和聊天的人工智能工具
+Exec=bash /usr/share/openwebui/start.sh
+Icon=/usr/share/openwebui/muggle.jpeg
+Terminal=false
+Type=Application
+Categories=Utility;
+
