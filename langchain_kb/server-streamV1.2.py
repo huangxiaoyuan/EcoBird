@@ -20,7 +20,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 
 # ================= 配置 =================
-API_KEY = "sk-nzxutftishvwoayxihtceizdtdbwmomewcoofwhyritpcjaz"
+API_KEY = " "sk-xxxxxxxxxx"
 BASE_URL = "https://api.siliconflow.cn/v1"
 DB_PATH = "./faiss_db"
 
